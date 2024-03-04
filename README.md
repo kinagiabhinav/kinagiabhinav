@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhinav Kinagi
-- 👀 I’m interested in Full-stack web development
+- 👀 I’m interested in Software development
 
 - 📫 How to reach me
     - [<p title="Abhinav Kinagi on LinkedIn">LinkedIn<p/>](https://www.linkedin.com/in/abhinav-kinagi-276275167/)
